@@ -1,0 +1,40 @@
+font-family: 'Abril Fatface', cursive;
+font-family: 'Raleway', sans-serif;
+/*font-family: 'Comfortaa', cursive;*/
+/*    <link href="https://fonts.googleapis.com/css?family=Abril+Fatface" rel="stylesheet">*/
+
+body {
+	font-family: Georgia, "Times New Roman",Times,serif;
+	font-size: 16px;
+	line-height: 1.5em;
+	color: #222;
+}
+/*h1.cover{*/
+/*    font-size: 40em;*/
+/*    text-align: left;*/
+/*    word-spacing: 0;*/
+/*    font-family: 'Limelight', cursive;*/
+/*    line-height: -.1em;*/
+}
+
+
+.footer{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 1em;
+    letter-spacing: .2em
+}
+
+p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 1em;
+    line-height: 2em;
+    font-weight: 200;
+}
+p.title{
+    font-family: 'Raleway', sans-serif;
+    font-size: 4em;
+    color: #F7931E;
+    padding: 0;
+    
+}
